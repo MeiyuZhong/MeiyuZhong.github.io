@@ -63,7 +63,12 @@ Skills
 
 Papers
 ======
+* Meiyu Zhong, Ravi Tandon, Learning Fair Robustness via Domain Mixup, 57th Asilomar Conference on Signals, Systems, and Computers, Pacific Grove, CA, Oct 2023.
+
+* Meiyu Zhong, Ravi Tandon, Intrinsic Fairness-Accuracy Tradeoffs under Equalized Odds, IEEE International Symposium on Information Theory (ISIT), Athens, Greece, July 2024.
+  
 * Meiyu Zhong, Ravi Tandon, Learning Fair Classifiers via Min-Max F-divergence Regularization, 59th Annual Allerton Conference on Communications, Control and Computing, Monticello, IL, September 2023
+  
 * Xingchen Li, Meiyu Zhong*, “Hardware Design of Basketball Robot based on Flyback Topology and Verilog HDL”, International Conference on Information Systems and Computer Aided Education (ICISCAE), 2018, Vol 2:508-510.
 
 
