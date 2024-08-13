@@ -63,7 +63,9 @@ Skills
 
 Papers
 ======
-* Meiyu Zhong, Ravi Tandon, Learning Fair Robustness via Domain Mixup, 57th Asilomar Conference on Signals, Systems, and Computers, Pacific Grove, CA, Oct 2023.
+* Wenhan Zhang*, Meiyu Zhong*, Ravi Tandon, Marwan Krunz, Filtered Randomized Smoothing: A New Defense for Robust Modulation Classification. Proc. of the IEEE MILCOM Conference (TRACK 5 – Machine Learning for Communications and Networking), October. 2024. (To be published)
+
+* Meiyu Zhong, Ravi Tandon, Learning Fair Robustness via Domain Mixup, 57th Asilomar Conference on Signals, Systems, and Computers, Pacific Grove, CA, Oct 2024. (To be published)
 
 * Meiyu Zhong, Ravi Tandon, Intrinsic Fairness-Accuracy Tradeoffs under Equalized Odds, IEEE International Symposium on Information Theory (ISIT), Athens, Greece, July 2024.
   
