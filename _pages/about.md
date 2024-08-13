@@ -63,7 +63,7 @@ Skills
 
 Papers
 ======
-* Wenhan Zhang*, Meiyu Zhong*, Ravi Tandon, Marwan Krunz, Filtered Randomized Smoothing: A New Defense for Robust Modulation Classification. Proc. of the IEEE MILCOM Conference, October. 2024. (To be published)
+* Wenhan Zhang *, Meiyu Zhong *, Ravi Tandon, Marwan Krunz, Filtered Randomized Smoothing: A New Defense for Robust Modulation Classification. Proc. of the IEEE MILCOM Conference, October. 2024. (To be published)
 
 * Meiyu Zhong, Ravi Tandon, Learning Fair Robustness via Domain Mixup, 57th Asilomar Conference on Signals, Systems, and Computers, Pacific Grove, CA, Oct 2024. (To be published)
 
