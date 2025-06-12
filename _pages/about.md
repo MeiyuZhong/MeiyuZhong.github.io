@@ -26,46 +26,36 @@ Education
   * Major in Electrical Engineering
   * Major GPA: 3.77/4.0
 
-Research Experience
+Research Interests
 ===================
-* Graduate Research Assistant | University of Arizona | Aug 2021 - present
-  1. Trustworthy Machine Learning Group - Advisor: Dr. Ravi Tandon
-     * Learning Fair Models via F-divergence Regularization (Fair Machine Learning)
-    
-* Graduate Research Assistant | University of Southern California | Aug 2019 - May 2021
-  1. Quantitative Evaluation and Design Group - Advisor: Dr. Leana Golubchik & Dr. Marco Paolieri
-    * Prevent Backdoor Attacks using matching network (Privacy, Federated learning, Machine learning)
-    * Neutral Architecture Search on Model Quantization (Auto-ML, Compression, Estimation)
-  2. Autonomous Networks Research Group - Advisor: Bhaskar Krishnamachari
-    * Robotic Network Routing Optimization using Multi-Armed Bandits (Network Optimization, Multi-Armed bandits)
- 
-* Graduate Research Assistant | Shanghai University | Sep 2017 - Jan 2019
-  1. Shanghai University Strive Team - Advisor: Wanmi Chen
-    * China Basketball Robot Competition (Image Recognition and Hardware Design)
-  2. Shanghai University Deep Learning Research Team - Advisor: Shenshen Gu
-    * Neural Network Optimization Using Complex Value (Neural Network Optimization, Machine learning)
+* Efficient LLM (Speculative Decoding)
+* Fair Machine Learning Algorithms and Fair LLM Design
+* Certified Robust Algorithms and Adversarial Training
 
 
 Work experience
 ===============
+* Smart Manufacture & AI Data Science intern | Micron Technology | 2024 Feb - present
 * Data Science intern | GiantKONE Elevator Co., Ltd. | Aug 2018 - Nov 2018
-  * Cleaned and pre-processing the tabular data
-  * Collaborated with a team to develop a machine learning model to do the prediction.
 
 
 Skills
 ======
 * Programming language: Python (proficient), Matlab (proficient), C/C++ (familiar), SQL (familiar). 
-*	Tools&Packages: PyTorch, HPC, Latex, NumPy, Pandas, Scikit-learn, TensorFlow, Git, Unix/Linux, etc.
+*	Tools&Packages: PyTorch, Hugging Face, HPC, Latex, NumPy, Pandas, Scikit-learn, TensorFlow, Git, Unix/Linux, etc.
 *	Robust machine learning: Certified Robustness, Adversarial Training.
 *	Fair machine learning: Group Fairness, Individual Fairness.
 
 
 Papers
 ======
-* Wenhan Zhang *, Meiyu Zhong *, Ravi Tandon, Marwan Krunz, Filtered Randomized Smoothing: A New Defense for Robust Modulation Classification. Proc. of the IEEE MILCOM Conference, October. 2024. (To be published)
+* Meiyu Zhong *, Noel Teku *, Ravi Tandon, Speeding up Speculative Decoding via Sequential Approximate Verification, Proceedings of the 3rd Efficient Systems for Foundation Models Workshop at the 41 st International Conference on Machine Learning (ICML), Vancouver, Canada. PMLR 267, 2025.
 
-* Meiyu Zhong, Ravi Tandon, Learning Fair Robustness via Domain Mixup, 57th Asilomar Conference on Signals, Systems, and Computers, Pacific Grove, CA, Oct 2024. (To be published)
+* Meiyu Zhong, Ravi Tandon, SPLITZ: Certifiable Robustness via Split Lipschitz Randomized Smoothing, IEEE Transactions on Information Forensics and Security, 2025 (To be published).
+  
+* Wenhan Zhang *, Meiyu Zhong *, Ravi Tandon, Marwan Krunz, Filtered Randomized Smoothing: A New Defense for Robust Modulation Classification. Proc. of the IEEE MILCOM Conference, October. 2024. 
+
+* Meiyu Zhong, Ravi Tandon, Learning Fair Robustness via Domain Mixup, 57th Asilomar Conference on Signals, Systems, and Computers, Pacific Grove, CA, Oct 2024.
 
 * Meiyu Zhong, Ravi Tandon, Intrinsic Fairness-Accuracy Tradeoffs under Equalized Odds, IEEE International Symposium on Information Theory (ISIT), Athens, Greece, July 2024.
   
