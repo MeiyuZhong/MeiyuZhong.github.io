@@ -1,3 +1,19 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+redirect_from: 
+  - /publications/
+  - /publications.md
+  
+author_profile: true
+---
+
+{% include base_path %}
+
+
+
+
 Publications
 ============
 
