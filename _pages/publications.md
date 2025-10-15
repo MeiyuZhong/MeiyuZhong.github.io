@@ -14,8 +14,6 @@ author_profile: true
 
 
 
-Publications
-============
 
 * Meiyu Zhong, Noel Teku, Ravi Tandon, Prompt Fairness: Sub-group Disparities in LLMs, 58th Asilomar Conference on Signals, Systems, and Computers, Pacific Grove, CA, Oct 2025 (To be published).
 
