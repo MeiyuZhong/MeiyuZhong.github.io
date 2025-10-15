@@ -3,8 +3,8 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 redirect_from: 
-  - /publications/
-  - /publications.html
+  - /rs/
+  - /researches.html
   
 author_profile: true
 ---
