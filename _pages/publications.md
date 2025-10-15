@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 redirect_from: 
   - /publications/
-  - /publications.md
+  - /publications.html
   
 author_profile: true
 ---
