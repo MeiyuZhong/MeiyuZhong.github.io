@@ -35,8 +35,8 @@ Research Interests
 
 Work experience
 ===============
-* Smart Manufacture & AI Data Science intern | Micron Technology | 2024 Feb - present
-* Data Science intern | GiantKONE Elevator Co., Ltd. | Aug 2018 - Nov 2018
+* Smart Manufacture & AI Data Science intern, Micron Technology,  Feb 2024 - May 2025
+* Data Science intern, GiantKONE Elevator Co., Ltd., Aug 2018 - Nov 2018
 
 
 Skills
@@ -45,23 +45,6 @@ Skills
 *	Tools&Packages: PyTorch, Hugging Face, HPC, Latex, NumPy, Pandas, Scikit-learn, TensorFlow, Git, Unix/Linux, etc.
 *	Robust machine learning: Certified Robustness, Adversarial Training.
 *	Fair machine learning: Group Fairness, Individual Fairness.
-
-
-Papers
-======
-* Meiyu Zhong *, Noel Teku *, Ravi Tandon, Speeding up Speculative Decoding via Sequential Approximate Verification, Proceedings of the 3rd Efficient Systems for Foundation Models Workshop at the 41 st International Conference on Machine Learning (ICML), Vancouver, Canada. PMLR 267, 2025.
-
-* Meiyu Zhong, Ravi Tandon, SPLITZ: Certifiable Robustness via Split Lipschitz Randomized Smoothing, IEEE Transactions on Information Forensics and Security, 2025 (To be published).
-  
-* Wenhan Zhang *, Meiyu Zhong *, Ravi Tandon, Marwan Krunz, Filtered Randomized Smoothing: A New Defense for Robust Modulation Classification. Proc. of the IEEE MILCOM Conference, October. 2024. 
-
-* Meiyu Zhong, Ravi Tandon, Learning Fair Robustness via Domain Mixup, 57th Asilomar Conference on Signals, Systems, and Computers, Pacific Grove, CA, Oct 2024.
-
-* Meiyu Zhong, Ravi Tandon, Intrinsic Fairness-Accuracy Tradeoffs under Equalized Odds, IEEE International Symposium on Information Theory (ISIT), Athens, Greece, July 2024.
-  
-* Meiyu Zhong, Ravi Tandon, Learning Fair Classifiers via Min-Max F-divergence Regularization, 59th Annual Allerton Conference on Communications, Control and Computing, Monticello, IL, September 2023
-  
-* Xingchen Li, Meiyu Zhong, “Hardware Design of Basketball Robot based on Flyback Topology and Verilog HDL”, International Conference on Information Systems and Computer Aided Education (ICISCAE), 2018, Vol 2:508-510.
 
 
 Awards and Honors
